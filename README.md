@@ -1,2 +1,2 @@
 # Algorithms
-Algorithms coding projects in Java
+Algorithms coding projects in Java and more to come.
